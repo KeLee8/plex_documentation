@@ -37,7 +37,7 @@
       poster.jpg
 ```
 
-如果使用 Plex Media Server v1.20.1 及更高版本中提供的（非“旧版”）Plex Movie 采集器，则还可以在大括号中使用 IMDb 或 TheMovieDB 的 ID 号以帮助匹配电影。它必须遵循 `{[source]-[id]}` 的形式。
+如果使用 Plex Media Server v1.20.1 及更高版本中提供的 Plex Movie 采集器（非“旧版”），你还可以在大括号中使用 IMDb 或 TheMovieDB 的 ID 号来帮助匹配电影。不过它必须遵循 `{[source]-[id]}` 的形式。
 
 ```plaintext
 /Movies
